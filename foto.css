@@ -1,0 +1,15 @@
+h1{
+    font-size: 150px;
+    color:antiquewhite;
+}
+
+#imagen{
+    cursor: pointer;
+    width:60px ;
+    height: 60px;
+    margin-left:50%;
+}
+html{
+background-color: darkgreen;
+
+}
